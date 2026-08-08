@@ -13,6 +13,7 @@ a VRM avatar (e.g. via [pixiv/three-vrm](https://github.com/pixiv/three-vrm)'s
 - [Blender](https://www.blender.org/) 4.4 or newer on your `PATH`
   (tested on 5.2 LTS)
 - A DeepMotion FBX export as input
+- Built and tested on Arch Linux, your mileage may vary on other platforms =)
 
 ## Usage
 

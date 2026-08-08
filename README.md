@@ -1,6 +1,8 @@
 # DeepMotion → Mixamo FBX Converter
 
-Converts a [DeepMotion](https://www.deepmotion.com/) FBX motion-capture
+*Built primarily for my new project nimph (aka VirtualChat)*
+
+A quicky hacky convertor, that converts a [DeepMotion](https://www.deepmotion.com/) FBX motion-capture
 export into a Mixamo-compatible FBX: armature + baked animation only,
 bones renamed to Mixamo's `mixamorig:` convention, ready to retarget onto
 a VRM avatar (e.g. via [pixiv/three-vrm](https://github.com/pixiv/three-vrm)'s
